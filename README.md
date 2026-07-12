@@ -2,23 +2,25 @@
 
 <table width="100%">
   <tr>
-    <td width="70%" valign="top">
+    <td width="65%" valign="top">
       <h3>Strategic Project Lead, UI/UX Designer & Full-Stack Developer 🚀</h3>
-      <p>Based in Kathmandu, Nepal, I specialize in blending UI/UX design with robust frontend development. I leverage Design Thinking and gamification to build engaging, modern digital products.</p>
+      <p>I specialize in bridging the gap between how a product looks (UI/UX) and how it grows (Marketing & Strategy). I leverage Design Thinking, gamification, and robust modern web technologies to solve complex problems and build engaging digital experiences.</p>
       <p align="left">
         <a href="https://github.com/Pravesh-Shrestha">
           <img src="https://komarev.com/normal-badge/?username=Pravesh-Shrestha&style=flat-square&color=38B2AC&label=PROFILE+VIEWS" alt="Profile Views" />
         </a>
       </p>
     </td>
-    <td width="30%" align="center">
+    <td width="35%" align="center">
       <img src="https://avatars.githubusercontent.com/u/145544670?v=4" width="130" style="border-radius: 50%; border: 3px solid #38B2AC;" alt="Pravesh Kumar Shrestha" />
+      <br /><br />
+      <img src="https://media.giphy.com/media/qgQUggAC3PfvGTJVPQ/giphy.gif" width="160" style="border-radius: 8px;" alt="Coding Animation" />
     </td>
   </tr>
 </table>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Project+Lead+%40+DigiSchool+Global;UI%2FUX+Designer+%26+Developer;B.Sc.+(Hons)+Computing+Student;Gamification+%26+Design+Thinking+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=UI+Designer+%26+Marketing+Officer+%40+PRESS1;Project+Lead+%40+DigiSchool+Global;B.Sc.+(Hons)+Computing+Student;Gamification+%26+Design+Thinking+Enthusiast" alt="Typing SVG" />
 </div>
 
 ---
@@ -45,21 +47,31 @@
   <summary><strong>💼 Click to expand Professional Experience</strong></summary>
   <br />
 
-  ### 🚀 **Project Lead & UX Designer** | DigiSchool Global & DigiSchool Australia
-  *September 2025 - Present*
-  * **Roadmap & Vision:** Directing the strategic product roadmap and creative vision for DigiSchool Australia.
-  * **Team Leadership:** Leading a multidisciplinary development team to deliver student-centric digital learning platforms.
-  * **Implementation:** Developing high-fidelity interactive UI/UX prototypes and managing frontend code implementation.
+  ### 🎨 **UI Designer & Marketing Officer** | PRESS1 Technologies
+  *April 2026 - Present* | *Denver, Colorado (Hybrid / Remote)*
+  * **UI/UX Design:** Designing high-fidelity wireframes and prototypes to enhance user engagement for digital platforms. Collaborating with developers to ensure design consistency and technical feasibility.
+  * **Marketing Strategy:** Developing data-driven marketing strategies to increase brand awareness, managing digital campaigns, and creating digital assets to align with growth goals.
+
+  ### 🚀 **Project Lead & Facilitator** | DigiSchool Global & DigiSchool Australia
+  *September 2025 - April 2026* | *Kathmandu, Nepal (Remote)*
+  * **Roadmap & Support:** Directed the strategic roadmap and creative vision for DigiSchool Australia while leading multidisciplinary development teams.
+  * **Development:** Worked as a Project Support Trainee & Frontend Developer, implementing interactive UI/UX prototypes and managing frontend implementations.
 
   ### 📢 **Marketing Coordinator** | Hult Prize Nepal
-  *March 2025 - March 2026*
-  * **Visual Design:** Spearheaded graphic design and marketing strategy for global entrepreneurial impact initiatives.
-  * **Campaigns:** Delivered high-impact digital marketing campaigns that strengthened brand clarity and community outreach.
+  *March 2025 - March 2026* | *Kathmandu, Nepal (Hybrid)*
+  * **Visual Campaigns:** Spearheaded graphic design and marketing strategy for global entrepreneurial impact initiatives, delivering high-impact campaigns that boosted community outreach.
 
-  ### 🎙️ **Content Creator & TV-Announcer** | Softwarica College of IT & E-Commerce
-  *August 2024 - July 2025*
-  * **Broadcasting:** Served as the official voice and face of the institution, hosting college broadcasts and announcements.
-  * **Creative Media:** Conceptualized and produced engaging digital content highlighting campus innovations, AR/VR workshops, and student achievements.
+  ### 🎓 **IT Student Ambassador** | Tech and Trendy Student Partners
+  *December 2022 - Present* | *Kathmandu, Nepal (Hybrid)*
+  * **Tech Outreach:** Actively participating in and organizing workshops on AR/VR, graphic design, and drone technology to promote education in computer software engineering.
+
+  ### 💼 **Hiring Manager** | HIREO
+  *June 2024 - August 2024* | *Nepal (Hybrid)*
+  * Managing hiring processes, team coordinate, and recruitment candidate filters.
+
+  ### 🏫 **Admissions Counselor** | Kanjirowa National Secondary School
+  *May 2023 - August 2023 (Internship)* | *Kathmandu, Nepal (On-site)*
+  * Counseling prospective students and organizing events to support admission cycles.
 </details>
 
 <details>
@@ -69,13 +81,18 @@
   ### 🎓 **B.Sc. (Hons) Computing**
   *Softwarica College of IT & E-Commerce (Coventry University)* | *September 2023 - September 2026*
   * **Specialization:** Computer Software Engineering
+  * **Activities:** PERN Stack, Python, Database Systems (MySQL), Kotlin, Data Structures & Algorithms.
 
   ### 🏫 **High School Diploma**
   *Kanjirowa National Secondary School* | *2021 - 2023*
+  * **Grade:** A (Biology major)
 
-  ### 📜 **Certifications & Capabilities**
-  * **Technical:** Prompt Engineering, SQL & Python, AI Fundamentals, Data Literacy.
-  * **Management:** Project Planning, Community Outreach, Design Thinking.
+  ### 📜 **Licenses & Certifications**
+  * 🌐 **DevOps Training (22 Hours):** Broadway Infosys (April 2026)
+  * 🔒 **Certified Online Fraud Prevention Specialist (COFPS):** Hack & Fix (May 2026)
+  * 🐍 **Intermediate Python & Data Manipulation with pandas:** DataCamp (March - April 2026)
+  * 💡 **Prompt Engineering, Data Science, SQL, Data Literacy:** DataCamp (December 2025)
+  * 🎮 **Wayground Certified Game Changer:** Wayground / Quizizz (January 2026)
 </details>
 
 ---
@@ -84,27 +101,11 @@
 
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
-| 🌍 **[Karya Connect Nepal](https://github.com/Pravesh-Shrestha)** | A freelancing platform connecting local clients with skilled professionals. | React, NodeJS, Express | Active |
-| 🌼 **[Bagaicha](https://github.com/Pravesh-Shrestha)** | Point of Sale (POS) system for florists to track sales and inventory. | React, NodeJS, MySQL | Completed |
+| 🌍 **[Karya Connect Nepal](https://github.com/Pravesh-Shrestha/KARYA-CONNECT-NEPAL)** | Freelancer marketplace connecting clients and developers. Supports payments & project tracking. | Kotlin, Android SDK, Firebase | Active |
+| 🌼 **[Bagaicha](https://github.com/Pravesh-Shrestha)** | Point of Sale (POS) system for florists to track sales, invoices, and inventory. | React, NodeJS, MySQL | Completed |
 | 📅 **[Hajiri](https://github.com/Pravesh-Shrestha)** | Academic check-in attendance tracker and reporting system. | React, NodeJS, Express | Completed |
-| ⭐ **[PeerPicks Web](https://github.com/Pravesh-Shrestha)** | Online rating and review platform for products and services. | JavaScript, HTML5, CSS3 | Active |
-| 📱 **[PeerPicks App](https://github.com/Pravesh-Shrestha)** | Native Android rating and discovery application. | Kotlin, Android SDK | Active |
-
----
-
-### 🏌️‍♂️ Interactive Retro Mini-Golf (Built in Python)
-> *I once built a custom mini-golf game in Python with obstacles and scoring. Can you get a hole-in-one? Choose your shot angle to play!*
-
-```
-   [🏌️‍♂️] ---------------------------------------------> [⛳]
-```
-
-| ↖️ [Bounce off Wall Shot](https://github.com/Pravesh-Shrestha) | ⬆️ [Straight Power Drive](https://github.com/Pravesh-Shrestha) | ↗️ [Top Corner Shot](https://github.com/Pravesh-Shrestha) |
-| :---: | :---: | :---: |
-| `🏌️‍♂️ -----------\_/\_/\----` | `🏌️‍♂️ ====================>>` | `🏌️‍♂️ -------------------\ ` |
-| `    *ricochet* -> ⛳` | `         🎯 -> ⛳` | `    *bounce* -> ⛳` |
-
-*Click a shot to explore my repositories!*
+| ⭐ **[PeerPicks Web](https://github.com/Pravesh-Shrestha/WEB-PeerPicks)** | Community review platform for local restaurants, retail, and services. | JavaScript, HTML5, CSS3 | Active |
+| 📱 **[PeerPicks App](https://github.com/Pravesh-Shrestha/Peerpicks-App)** | Native Android local establishment discovery and review application. | Kotlin, Android SDK | Active |
 
 ---
 
