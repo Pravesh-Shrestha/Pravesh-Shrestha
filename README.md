@@ -1,19 +1,99 @@
 # 💫 Hi there! I'm Pravesh Kumar Shrestha <img src="https://media.giphy.com/media/hvRJCLFzcasr6/giphy.gif" width="28">
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Pravesh;Full-Stack+Web+Developer;Kotlin+%26+React+Enthusiast;Building+innovative+solutions" alt="Typing SVG" />
+<table width="100%">
+  <tr>
+    <td width="70%" valign="top">
+      <h3>Strategic Project Lead, UI/UX Designer & Full-Stack Developer 🚀</h3>
+      <p>Based in Kathmandu, Nepal, I specialize in blending UI/UX design with robust frontend development. I leverage Design Thinking and gamification to build engaging, modern digital products.</p>
+      <p align="left">
+        <a href="https://github.com/Pravesh-Shrestha">
+          <img src="https://komarev.com/normal-badge/?username=Pravesh-Shrestha&style=flat-square&color=38B2AC&label=PROFILE+VIEWS" alt="Profile Views" />
+        </a>
+      </p>
+    </td>
+    <td width="30%" align="center">
+      <img src="https://avatars.githubusercontent.com/u/145544670?v=4" width="130" style="border-radius: 50%; border: 3px solid #38B2AC;" alt="Pravesh Kumar Shrestha" />
+    </td>
+  </tr>
+</table>
 
-  <p align="center">
-    <a href="https://github.com/Pravesh-Shrestha">
-      <img src="https://komarev.com/normal-badge/?username=Pravesh-Shrestha&style=flat-square&color=38B2AC&label=PROFILE+VIEWS" alt="Profile Views" />
-    </a>
-  </p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Project+Lead+%40+DigiSchool+Global;UI%2FUX+Designer+%26+Developer;B.Sc.+(Hons)+Computing+Student;Gamification+%26+Design+Thinking+Enthusiast" alt="Typing SVG" />
 </div>
 
 ---
 
-### 🏌️‍♂️ Retro Mini-Golf Challenge (Python Golf Simulator)
-> *I once built a custom mini-golf game in Python with obstacles and scoring. Can you make it in one shot? Choose your shot and click to play!*
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Pravesh-Shrestha&theme=radical&no-background=true&margin-w=15&margin-h=15" alt="Pravesh's Trophies" />
+</p>
+
+---
+
+## 💻 Tech Stack & Tools
+
+### 🌐 Technologies & Design Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,kotlin,java,python,html,css,tailwind,nodejs,express,postgres,mysql,sqlite,figma,canva,ai&theme=dark" alt="My Skills" />
+</p>
+
+---
+
+## 💼 Professional Experience & Journey
+
+<details>
+  <summary><strong>💼 Click to expand Professional Experience</strong></summary>
+  <br />
+
+  ### 🚀 **Project Lead & UX Designer** | DigiSchool Global & DigiSchool Australia
+  *September 2025 - Present*
+  * **Roadmap & Vision:** Directing the strategic product roadmap and creative vision for DigiSchool Australia.
+  * **Team Leadership:** Leading a multidisciplinary development team to deliver student-centric digital learning platforms.
+  * **Implementation:** Developing high-fidelity interactive UI/UX prototypes and managing frontend code implementation.
+
+  ### 📢 **Marketing Coordinator** | Hult Prize Nepal
+  *March 2025 - March 2026*
+  * **Visual Design:** Spearheaded graphic design and marketing strategy for global entrepreneurial impact initiatives.
+  * **Campaigns:** Delivered high-impact digital marketing campaigns that strengthened brand clarity and community outreach.
+
+  ### 🎙️ **Content Creator & TV-Announcer** | Softwarica College of IT & E-Commerce
+  *August 2024 - July 2025*
+  * **Broadcasting:** Served as the official voice and face of the institution, hosting college broadcasts and announcements.
+  * **Creative Media:** Conceptualized and produced engaging digital content highlighting campus innovations, AR/VR workshops, and student achievements.
+</details>
+
+<details>
+  <summary><strong>🎓 Click to expand Education & Certifications</strong></summary>
+  <br />
+
+  ### 🎓 **B.Sc. (Hons) Computing**
+  *Softwarica College of IT & E-Commerce (Coventry University)* | *September 2023 - September 2026*
+  * **Specialization:** Computer Software Engineering
+
+  ### 🏫 **High School Diploma**
+  *Kanjirowa National Secondary School* | *2021 - 2023*
+
+  ### 📜 **Certifications & Capabilities**
+  * **Technical:** Prompt Engineering, SQL & Python, AI Fundamentals, Data Literacy.
+  * **Management:** Project Planning, Community Outreach, Design Thinking.
+</details>
+
+---
+
+## 🛠️ Featured Projects
+
+| Project | Description | Tech Stack | Status |
+| :--- | :--- | :--- | :--- |
+| 🌍 **[Karya Connect Nepal](https://github.com/Pravesh-Shrestha)** | A freelancing platform connecting local clients with skilled professionals. | React, NodeJS, Express | Active |
+| 🌼 **[Bagaicha](https://github.com/Pravesh-Shrestha)** | Point of Sale (POS) system for florists to track sales and inventory. | React, NodeJS, MySQL | Completed |
+| 📅 **[Hajiri](https://github.com/Pravesh-Shrestha)** | Academic check-in attendance tracker and reporting system. | React, NodeJS, Express | Completed |
+| ⭐ **[PeerPicks Web](https://github.com/Pravesh-Shrestha)** | Online rating and review platform for products and services. | JavaScript, HTML5, CSS3 | Active |
+| 📱 **[PeerPicks App](https://github.com/Pravesh-Shrestha)** | Native Android rating and discovery application. | Kotlin, Android SDK | Active |
+
+---
+
+### 🏌️‍♂️ Interactive Retro Mini-Golf (Built in Python)
+> *I once built a custom mini-golf game in Python with obstacles and scoring. Can you get a hole-in-one? Choose your shot angle to play!*
 
 ```
    [🏌️‍♂️] ---------------------------------------------> [⛳]
@@ -24,111 +104,7 @@
 | `🏌️‍♂️ -----------\_/\_/\----` | `🏌️‍♂️ ====================>>` | `🏌️‍♂️ -------------------\ ` |
 | `    *ricochet* -> ⛳` | `         🎯 -> ⛳` | `    *bounce* -> ⛳` |
 
-*Click any of the shots above to explore my repositories!*
-
----
-
-## 💫 About Me
-
-- 🔭 **Currently working on:** Enhancing my skills in **Full-Stack Development** & exploring **Cloud Technologies**.
-- 🌱 **Currently learning:** Diving deeper into **Kotlin** & **React** for building highly dynamic user interfaces.
-- 👯 **Looking to collaborate on:** Innovative projects that involve **Machine Learning** and web applications.
-- 🤝 **Looking for help with:** Advanced algorithms and data structures to strengthen my problem-solving skills.
-- 💬 **Ask me about:** Python, Java, or any of my projects listed below!
-- ⚡ **Fun fact:** I once built a game in Python that simulates a mini golf course, complete with obstacles and a scoring system!
-
----
-
-## 💻 Tech Stack & Tools
-
-### 🌐 Frontend & Mobile Development
-<p align="left">
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  </a>
-  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  </a>
-</p>
-
-### ⚙️ Backend & Database Technologies
-<p align="left">
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB" alt="ExpressJS" />
-  </a>
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  </a>
-  <a href="https://sequelize.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" alt="Sequelize" />
-  </a>
-</p>
-
-### 🎨 Design & Tools
-<p align="left">
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  </a>
-  <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
-  </a>
-</p>
-
----
-
-## 🛠️ Projects Showcase
-
-### 🌍 **[Karya Connect Nepal](https://github.com/Pravesh-Shrestha)**
-*A freelancing platform designed to bridge the gap between clients and skilled professionals across Nepal.*
-* **Tech Stack:** React, NodeJS, Express, Database
-* **Status:** Active / In Development
-
-### 🌼 **[Bagaicha](https://github.com/Pravesh-Shrestha)**
-*A custom Flower Shop Point of Sale (POS) system designed to streamline sales, tracking, and inventory management for local florists.*
-* **Tech Stack:** React, NodeJS, Database
-* **Status:** Completed
-
-### 📅 **[Hajiri](https://github.com/Pravesh-Shrestha)**
-*An attendance tracking and management system tailored to simplify check-in and check-out tracking for educational organizations.*
-* **Tech Stack:** React, NodeJS, Database
-* **Status:** Completed
-
-### ⭐ **[PeerPicks Web](https://github.com/Pravesh-Shrestha)**
-*An online rating and review platform enabling users to rate local services and popular products.*
-* **Tech Stack:** JavaScript, HTML5, CSS3
-* **Status:** Active
-
-### 📱 **[PeerPicks App](https://github.com/Pravesh-Shrestha)**
-*Mobile rating and discovery application bringing user feedback and product metrics on the go.*
-* **Tech Stack:** Kotlin, Android SDK
-* **Status:** Active
+*Click a shot to explore my repositories!*
 
 ---
 
@@ -152,10 +128,13 @@
   <a href="https://www.linkedin.com/in/pravesh-kumar-shrestha-96a357247/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/_prabesh_shresthaa_/" target="_blank" rel="noreferrer">
+  <a href="https://www.instagram.com/probs.img/?hl=en" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.facebook.com/pravhu.stha" target="_blank" rel="noreferrer">
+  <a href="https://www.facebook.com/prabesh.shresthaa" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="mailto:sthapravesh12@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
