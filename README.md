@@ -1,24 +1,161 @@
-# 💫 About Me:
-About Me<br>🔭 I’m currently working on enhancing my skills in full-stack development and exploring cloud technologies.<br><br>👯 I’m looking to collaborate on innovative projects that involve machine learning and web applications.<br><br>🤝 I’m looking for help with advanced algorithms and data structures to strengthen my problem-solving skills.<br><br>🌱 I’m currently learning Kotlin and diving deeper into React for building dynamic user interfaces.<br><br>💬 Ask me about Python, Java, or any of my projects listed below!<br><br>⚡ Fun fact: I once built a game in Python that simulates a mini golf course, complete with obstacles and a scoring system!<br><br>Projects<br>Karya Connect Nepal 🌍: A freelancing app that connects clients with skilled professionals across various fields.<br>Bagaicha 🌼: A flower shop POS system designed to streamline sales and inventory management for local florists.<br>Hajiri 📅: An attendance management system that simplifies the tracking of attendance for educational institutions.<br>PeerPicks-WEB ⭐: An online rating web app that allows users to rate and review various services and products.<br>PeerPicks App 📱: A mobile rating application that provides users with the ability to share and discover ratings on the go.
+# 💫 Hi there! I'm Pravesh Kumar Shrestha <img src="https://media.giphy.com/media/hvRJCLFzcasr6/giphy.gif" width="28">
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Pravesh;Full-Stack+Web+Developer;Kotlin+%26+React+Enthusiast;Building+innovative+solutions" alt="Typing SVG" />
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/pravhu.stha) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_prabesh_shresthaa_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pravesh-kumar-shrestha-96a357247/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BFZ%2F64BnURDasn0%2BwRVaV3Q%3D%3D) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Pravesh-Shrestha&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Pravesh-Shrestha&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pravesh-Shrestha&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Pravesh-Shrestha&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+  <p align="center">
+    <a href="https://github.com/Pravesh-Shrestha">
+      <img src="https://komarev.com/normal-badge/?username=Pravesh-Shrestha&style=flat-square&color=38B2AC&label=PROFILE+VIEWS" alt="Profile Views" />
+    </a>
+  </p>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Pravesh-Shrestha&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🏌️‍♂️ Retro Mini-Golf Challenge (Python Golf Simulator)
+> *I once built a custom mini-golf game in Python with obstacles and scoring. Can you make it in one shot? Choose your shot and click to play!*
+
+```
+   [🏌️‍♂️] ---------------------------------------------> [⛳]
+```
+
+| ↖️ [Bounce off Wall Shot](https://github.com/Pravesh-Shrestha) | ⬆️ [Straight Power Drive](https://github.com/Pravesh-Shrestha) | ↗️ [Top Corner Shot](https://github.com/Pravesh-Shrestha) |
+| :---: | :---: | :---: |
+| `🏌️‍♂️ -----------\_/\_/\----` | `🏌️‍♂️ ====================>>` | `🏌️‍♂️ -------------------\ ` |
+| `    *ricochet* -> ⛳` | `         🎯 -> ⛳` | `    *bounce* -> ⛳` |
+
+*Click any of the shots above to explore my repositories!*
+
+---
+
+## 💫 About Me
+
+- 🔭 **Currently working on:** Enhancing my skills in **Full-Stack Development** & exploring **Cloud Technologies**.
+- 🌱 **Currently learning:** Diving deeper into **Kotlin** & **React** for building highly dynamic user interfaces.
+- 👯 **Looking to collaborate on:** Innovative projects that involve **Machine Learning** and web applications.
+- 🤝 **Looking for help with:** Advanced algorithms and data structures to strengthen my problem-solving skills.
+- 💬 **Ask me about:** Python, Java, or any of my projects listed below!
+- ⚡ **Fun fact:** I once built a game in Python that simulates a mini golf course, complete with obstacles and a scoring system!
+
+---
+
+## 💻 Tech Stack & Tools
+
+### 🌐 Frontend & Mobile Development
+<p align="left">
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  </a>
+  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  </a>
+</p>
+
+### ⚙️ Backend & Database Technologies
+<p align="left">
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+  </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB" alt="ExpressJS" />
+  </a>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  </a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  </a>
+  <a href="https://sequelize.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" alt="Sequelize" />
+  </a>
+</p>
+
+### 🎨 Design & Tools
+<p align="left">
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  </a>
+  <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Projects Showcase
+
+### 🌍 **[Karya Connect Nepal](https://github.com/Pravesh-Shrestha)**
+*A freelancing platform designed to bridge the gap between clients and skilled professionals across Nepal.*
+* **Tech Stack:** React, NodeJS, Express, Database
+* **Status:** Active / In Development
+
+### 🌼 **[Bagaicha](https://github.com/Pravesh-Shrestha)**
+*A custom Flower Shop Point of Sale (POS) system designed to streamline sales, tracking, and inventory management for local florists.*
+* **Tech Stack:** React, NodeJS, Database
+* **Status:** Completed
+
+### 📅 **[Hajiri](https://github.com/Pravesh-Shrestha)**
+*An attendance tracking and management system tailored to simplify check-in and check-out tracking for educational organizations.*
+* **Tech Stack:** React, NodeJS, Database
+* **Status:** Completed
+
+### ⭐ **[PeerPicks Web](https://github.com/Pravesh-Shrestha)**
+*An online rating and review platform enabling users to rate local services and popular products.*
+* **Tech Stack:** JavaScript, HTML5, CSS3
+* **Status:** Active
+
+### 📱 **[PeerPicks App](https://github.com/Pravesh-Shrestha)**
+*Mobile rating and discovery application bringing user feedback and product metrics on the go.*
+* **Tech Stack:** Kotlin, Android SDK
+* **Status:** Active
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pravesh-Shrestha&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pravesh-Shrestha&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pravesh-Shrestha&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Langs" width="48%" />
+  <img src="https://raw.githubusercontent.com/Pravesh-Shrestha/Pravesh-Shrestha/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="48%" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/pravesh-kumar-shrestha-96a357247/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/_prabesh_shresthaa_/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.facebook.com/pravhu.stha" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
