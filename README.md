@@ -1,11 +1,11 @@
 # 🌌 $ WHOAMI
 
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnNnNjl1aW0yMmVheW54cm94Y25henEzbmg5ZmJqZ2JuY2E5YnY0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="100%" alt="Developer coding animation" />
+</p>
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Pravesh;Full-Stack+Web+Developer;UI%2FUX+Designer+%26+Strategist;Building+innovative+solutions" alt="Typing SVG" />
-
-  <p>
-    <img src="https://profile-counter.glitch.me/Pravesh-Shrestha/count.svg" alt="Profile Views" />
-  </p>
 </div>
 
 ---
@@ -25,14 +25,6 @@ ROLES   : UI Designer & Marketing Officer @ PRESS1 Technologies
 STATUS  : Engineering PERN Stack, Mobile Apps & Cloud integrations 🚀
 MOTTO   : "Bridging aesthetics with clean, functional code." 🎨
 ```
-
----
-
-## 🏆 System Diagnostics & Badges
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pravesh-Shrestha&theme=radical&no-background=true" alt="Trophies" />
-</p>
 
 ---
 
@@ -59,21 +51,7 @@ MOTTO   : "Bridging aesthetics with clean, functional code." 🎨
 
 ---
 
-## 📊 Performance Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pravesh-Shrestha&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pravesh-Shrestha&theme=radical" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pravesh-Shrestha&layout=compact&theme=radical" alt="Top Langs" width="48%" />
-  <img src="https://raw.githubusercontent.com/Pravesh-Shrestha/Pravesh-Shrestha/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="48%" />
-</p>
-
----
-
-## 🌐 Establised Links & Connections
+## 🌐 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/pravesh-kumar-shrestha-96a357247/" target="_blank" rel="noreferrer">
